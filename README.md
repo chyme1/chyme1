@@ -1,4 +1,4 @@
-# hi, i'm [your name]
+# hi, i'm chyme
 
 python developer · network forensics
 
